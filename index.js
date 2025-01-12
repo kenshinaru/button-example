@@ -7,7 +7,7 @@ import {
     prepareWAMessageMedia,
 } from "baileys";
 import { createInterface } from "node:readline";
-import { keepAlive } from "./keepAlive.js";
+import { keepAlive } from "./server.js";
 import { Boom } from "@hapi/boom";
 import { pino } from "pino";
 import { randomBytes } from "crypto";
