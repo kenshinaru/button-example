@@ -208,5 +208,5 @@ async function sendInteractiveButton(client, jid) {
     await client.relayMessage(jid, proto.message, { messageId: proto.key.id });
 }
 
-// Iniciar el bot
+// Gas nyalain :v
 await startSock();
