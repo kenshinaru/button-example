@@ -1,0 +1,17 @@
+{
+  "name": "button-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "npm install && node ."
+  },
+  "keywords": [],
+  "author": "Luthfi Joestars",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "baileys": "npm:@neoxr/baileys@latest",
+  }
+}
